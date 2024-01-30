@@ -3,7 +3,7 @@ def question2_1():
     return answer
 
 def question2_2():
-    answer = ['Continuous', 'Quantitative', 'Ratio']
+    answer = ['Continuous', 'Qualitative', 'Ordinal']
     return answer
 
 def question2_3():
