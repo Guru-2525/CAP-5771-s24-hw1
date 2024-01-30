@@ -1,19 +1,17 @@
 def question9_1():
-    
-    answer = 'SMC'
-    
+    answer = 'smc'
     return answer
 
 def question9_2():
-    answer = 'Jaccard'
+    answer = 'jaccard'
     return answer
 
 def question9_3():
-    answer = 'Euclidean'
+    answer = 'jaccard'
     return answer 
 
 def question9_4():
-    answer = 'Euclidean'
+    answer = 'euclidean'
     return answer 
 
 def question9_5():
